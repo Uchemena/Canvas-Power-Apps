@@ -13,3 +13,8 @@ Read the blog post on [Create a responsive menu navigation bar in Canvas Power A
 <br>
 
 ### Instruction to Download the Canvas Apps application 
+- At the top of the screen, click on YouTubeDemoApp 
+![](/App.png)
+
+- Next, click on the arrow icon, this is shown in the screenshot below. This will download the Canvas Application and then you can go ahead and import the solution to your environment.
+![](/Download1.png)
