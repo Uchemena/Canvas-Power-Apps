@@ -12,4 +12,4 @@ Read the blog post on [Create a responsive menu navigation bar in Canvas Power A
 <br> 
 <br>
 
-## Instruction to Download the Canvas Apps application 
+### Instruction to Download the Canvas Apps application 
